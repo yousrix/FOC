@@ -1,0 +1,27 @@
+**********************************************************************
+*   Program HypTC.exe searches for components with only one          *
+*   pin that are not ICs, test points, or connectors; and changes    *
+*   them into test points.                                           *
+*                                                                    *
+*  Copyright 2019 Mentor Graphics Corporation. All rights reserved.  *
+**********************************************************************
+
+12/20/2022 10:26 Processing started.
+Create reference designators list.
+Reference designators list creating completed.
+Processing file "C:\Users\MSI\Desktop\foc\foc_fpga\foc_fpga.hyp":
+Reading:
+17337 lines ok.
+Reading completed.
+Creating list of components to be verified.
+49 components in list.
+List completed.
+Search non IC, test point or connector components with only one pin.
+1 components to fix.
+Search completed.
+Components to be fixed:
+Capacitor C
+Fixing components:
+Error while procssing components for file "C:\Users\MSI\Desktop\foc\foc_fpga\foc_fpga.hyp".
+Failure during program execution! Execution aborted.
+

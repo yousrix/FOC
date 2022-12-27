@@ -1,0 +1,20 @@
+2022-12-19 19:40:26 2560     [INFO] Opened Board: foc_fpga.hyp <C:\Users\MSI\Desktop\foc\foc_fpga\>
+2022-12-19 19:41:17 2560     [INFO] Close HyperLynx Session: Design file: foc_fpga.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2022-12-19 19:41:19 2560     [INFO] Closing Design: foc_fpga.hyp
+2022-12-19 19:41:20 2560     [INFO] ****** Closing HyperLynx 
+2022-12-20 10:19:59 12348     [INFO] ****** HyperLynx v2.6 build 14488140 
+2022-12-20 10:19:59 12348     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\bsw.exe 
+2022-12-20 10:20:14 12348     [INFO] Opening Project C:\Users\MSI\Desktop\foc\foc_fpga\foc_fpga.hyp
+2022-12-20 10:21:52 12348     [INFO] Opened Board: foc_fpga.hyp <C:\Users\MSI\Desktop\foc\foc_fpga\>
+2022-12-20 10:23:28 12348     [INFO] Close HyperLynx Session: Design file: foc_fpga.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2022-12-20 10:23:30 12348     [INFO] Closing Design: foc_fpga.hyp
+2022-12-20 10:24:49 12348     [INFO] Opening Project C:\Users\MSI\Desktop\foc\foc_fpga\foc_fpga.hyp
+2022-12-20 10:26:11 12348     [INFO] Opened Board: foc_fpga.hyp <C:\Users\MSI\Desktop\foc\foc_fpga\>
+2022-12-20 10:28:14 12348     [INFO] Close HyperLynx Session: Design file: foc_fpga.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2022-12-20 10:28:16 12348     [INFO] Closing Design: foc_fpga.hyp
+2022-12-20 10:28:16 12348     [INFO] ****** Closing HyperLynx 
+2022-12-27 11:36:32 1144     [INFO] ****** HyperLynx v2.6 build 14488140 
+2022-12-27 11:36:32 1144     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\bsw.exe 
+2022-12-27 11:36:33 1144     [INFO] Opening Project C:\Users\MSI\Desktop\foc\foc_fpga\foc_fpga.hyp
+2022-12-27 11:36:35 1144     [INFO] Opened Board: foc_fpga.hyp <C:\Users\MSI\Desktop\foc\foc_fpga\>
+2022-12-27 11:36:37 1144     [INFO] Opening Project C:\Users\MSI\Desktop\foc\foc_fpga\hyper\foc_fpga2.hyp
